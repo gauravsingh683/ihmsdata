@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+}
+#mainheader{
+    width: auto;
+    height: 70px;
+    background-color: rgb(26, 31, 29)
+}
+#mainheader img{
+    height: 70px;
+    width: 70px;
+    margin-left: 25px;
+}
+#logout{
+    float: right;
+    margin-top: 24px;
+    margin-right: 20px;
+    font-size: larger;
+    color: bisque;
+}
+h5{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
